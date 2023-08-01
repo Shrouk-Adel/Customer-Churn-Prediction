@@ -18,4 +18,9 @@
 - Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 - Demographic info about customers – gender, age range, and if they have partners and dependents
 
-   dataset link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+📝 Project Objective:
+
+1. The aim of this project is to train a Machine Learning Model which can predict customer churn using various relevant features.
+2. This project is completely based on customer chrun -  Logistic Regression
+3. dataset link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
